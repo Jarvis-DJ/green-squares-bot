@@ -724,3 +724,4 @@
 [2026-08-21 06:01:48 PM] Consistency is more important than intensity.
 [2026-08-23 11:55:48 AM] Just showing up matters.
 [2026-08-23 11:55:48 AM] You’re one step closer to your goal.
+[2026-08-23 11:55:48 AM] The habit of showing up wins the game.
